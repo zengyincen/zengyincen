@@ -22,7 +22,7 @@ Once you've added all the content, scroll to the bottom of the page and click th
 
 Your README will now be visible on the main page of your repository. -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=B0E0E6&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ethan+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ethan Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Concert+one&size=37&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ethan+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ethan Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
