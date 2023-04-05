@@ -45,23 +45,7 @@ Your README will now be visible on the main page of your repository. -->
 
 * :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
 
-<h2></h2><br>
 
-<p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
-</p>
-
-<div align="center">
-  <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="skills actively learning logos"> <br> 
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=py,netlify" alt="skills planning to learn logos">
-</div>
-
-<p align="center"><br>
-  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
-</p>
-  
 <p align="center">
 <img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
 </p>
