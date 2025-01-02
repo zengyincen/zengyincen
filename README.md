@@ -39,7 +39,7 @@ Your README will now be visible on the main page of your repository. -->
 
 * 🐾 I’m looking to network and make friends here!😁 <br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects 💪<br><br>
+* 🌊 2025 Goals: Contribute more to Open Source projects 💪<br><br>
 
 * ☕ Interest: Coffee🥛 and Coding.📠 <br><br>
 
