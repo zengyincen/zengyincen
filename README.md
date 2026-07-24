@@ -57,5 +57,5 @@ Your README will now be visible on the main page of your repository. -->
   <a href="mailto:zengyincen@foxmail.com" target="_blank">
     <img align="center" alt="mail logo" height="50" width="50" src="assests/gmailogo.png" />
   </a>
-  <span>Ethan 曾胤岑</span>
+  <span> EthanZeng 曾胤岑 </span>
 </p> 
